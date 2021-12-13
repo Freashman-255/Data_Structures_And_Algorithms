@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Data_Structures" />
         <module name="Algorithms" />
+        <module name="Collection_IO" />
       </profile>
     </annotationProcessing>
   </component>
