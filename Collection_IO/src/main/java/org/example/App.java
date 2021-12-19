@@ -20,6 +20,7 @@ public class App
             it.next();
             it.remove();
         }
+ 
         System.out.println(c.size());
         System.out.println(10>>2);
         Map<Integer,String> map=new HashMap<>();
@@ -31,5 +32,6 @@ public class App
              ) {
             System.out.println(entry.getKey()+"   "+entry.getValue());
         }
+
     }
 }
